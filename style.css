@@ -1,0 +1,22 @@
+*{box-sizing: border-box;}
+
+
+button{
+
+    border: 2px solid black;
+    color: wheat;
+    background-color: blue;
+    height: 400px;
+    width: 400px;
+
+   
+    cursor: pointer;
+
+}
+
+a{
+    
+    color: wheat;
+    text-decoration: none;
+}
+
